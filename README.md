@@ -1,22 +1,14 @@
 # Initial page
 
-## IPMTQ
+#### ADDRESS
 
-{% hint style="info" %}
-Mengembalikan bunga yang dibayar setiap periode
-{% endhint %}
+Membuat alamat sel dari baris dan kolom yang diberikan
 
-{% tabs %}
-{% tab title="First Tab" %}
 | Parameter | Deskripsi |
 | :--- | :--- |
-| A | B |
-{% endtab %}
-{% endtabs %}
-
-Apa itu apa?
-
-Kenapa apa?
-
-Konten nya apa?
+| row\_num | Nomor baris yang digunakan di alamat sel |
+| abs\_num | Nomor kolom yang akan digunakan dalam alamat sel |
+| col\_num | \[opsional\] Jenis alamat \(mis. absolut, relatif\). Default ke absolut |
+| a1 | \[opsional\] Gaya referensi |
+| sheet | \[opsional\] Nama lembar kerja yang akan digunakan. Default ke sheet saat ini |
 
