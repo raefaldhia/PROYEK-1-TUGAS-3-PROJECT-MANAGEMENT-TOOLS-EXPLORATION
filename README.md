@@ -1,6 +1,6 @@
 # Initial page
 
-## IPMT
+## IPMTQ
 
 {% hint style="info" %}
 Mengembalikan bunga yang dibayar setiap periode
