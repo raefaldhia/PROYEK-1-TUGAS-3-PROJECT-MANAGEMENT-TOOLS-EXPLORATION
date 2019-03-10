@@ -1,8 +1,8 @@
 # DATE
 
-#### DATE
-
 Mengembalikan format berupa tanggal dari argumen yang telah diberikan.
+
+#### Syntax
 
 ```text
 =DATE(year;month;day)
@@ -14,17 +14,9 @@ Mengembalikan format berupa tanggal dari argumen yang telah diberikan.
 | month | bulan |
 | day | hari |
 
-{% tabs %}
-{% tab title="Contoh 1" %}
-| A |  |
-| :--- | :--- |
-| =DATE\(2019;3;9\) |  |
+#### Contoh
 
-Result:
-
-| A |  |
+| A | Hasil |
 | :--- | :--- |
-| 09/03/2019 |  |
-{% endtab %}
-{% endtabs %}
+| =DATE\(2019;3;9 | 09/03/2019 |
 

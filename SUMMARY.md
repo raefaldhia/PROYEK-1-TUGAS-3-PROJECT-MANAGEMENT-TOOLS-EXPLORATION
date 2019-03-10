@@ -2,7 +2,14 @@
 
 * [Home](README.md)
 
-## Categories
+## Date & Time
 
-* [DATE](awww/date.md)
+* [DATE](dateandtime/date.md)
+* [DATEVALUE](dateandtime/datevalue.md)
+* [DAY](dateandtime/day.md)
+* [DAYS](dateandtime/days.md)
+* [DAYS360](dateandtime/days360.md)
+* [EDATE](dateandtime/edate.md)
+* [EOMONTH](dateandtime/eomonth.md)
+* [HOUR](dateandtime/hour.md)
 
