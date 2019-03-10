@@ -4,27 +4,25 @@ description: >-
   Angka dan tanda baca tidak terpengaruh.
 ---
 
-# Excel PROPER Function
+# PROPER
 
 ![Sumber : https://exceljet.net/excel-functions/excel-proper-function](../.gitbook/assets/proper.png)
 
-
-
-#### Syntax
+## Syntax
 
 ```text
 =PROPER (text)
 ```
 
-#### Parameter 
+## Parameter
 
 | **Parameter** | **Penjelasan** |
 | :--- | :--- |
 | text | Teks yang harus dikonversi |
 
-#### Note
+## Note
 
 {% hint style="warning" %}
+
 * Gunakan PROPER untuk mengkapitalisasikan huruf awal setiap kata dalam string yang diberikan.
-{% endhint %}
 

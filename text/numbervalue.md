@@ -4,31 +4,27 @@ description: >-
   numerik, menggunakan pemisah desimal dan grup yang ditentukan.
 ---
 
-# Excel NUMBERVALUE Function
+# NUMBERVALUE
 
 ![Sumber : https://exceljet.net/excel-functions/excel-numbervalue-function ](../.gitbook/assets/numbervalue.png)
 
-
-
-#### Syntax
+## Syntax
 
 ```text
 =NUMBERVALUE (text, [decimal_separator], [group_separator])
 ```
 
-#### Parameter 
+## Parameter
 
 | **Parameter** | **Penjelasan** |
 | :--- | :--- |
 | text | Teks untuk dikonversi ke angka |
-|  decimal\_separator | \[opsional\] Karakter untuk nilai desimal |
+| decimal\_separator | \[opsional\] Karakter untuk nilai desimal |
 | group\_separator | \[opsional\] Karakter untuk dikelompokkan oleh ribuan |
 
-#### Note
+## Note
 
 {% hint style="warning" %}
+
 * Fungsi NUMBERVALUE mengubah nilai teks yang mewakili angka menjadi angka yang valid menggunakan pemisah desimal khusus dan pemisah grup.
-{% endhint %}
-
-
 

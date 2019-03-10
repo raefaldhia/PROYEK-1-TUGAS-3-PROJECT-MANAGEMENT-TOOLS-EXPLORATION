@@ -6,48 +6,43 @@ description: >-
 
 # WEEKNUM
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="sintaks Fungsi" %}
 ```text
-
 WEEKNUM( serial_number, [return_type] )
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter
+## Parameter
+
+| Paraemeter | Deskripsi |
+| :--- | :--- |
+
+
+| serial\_number | Tanggal Excel yang Anda inginkan untuk mengembalikan nomor minggu. |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Paraemeter</th>
-      <th style="text-align:left">Deskripsi</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">serial_number</td>
-      <td style="text-align:left">Tanggal Excel yang Anda inginkan untuk mengembalikan nomor minggu.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">[return_type]</td>
-      <td style="text-align:left">
+      <th style="text-align:left">[return_type]</th>
+      <th style="text-align:left">
         <p>Argumen opsional, yang menentukan sistem penomoran mana yang akan digunakan
           dan hari kerja mana yang harus diperlakukan sebagai awal minggu.</p>
-        <p></p>
         <p>Dua sistem penomoran yang berbeda adalah:</p>
         <p>Sistem 1- Minggu yang mengandung 1 Januari diberi nomor minggu 1;</p>
         <p>Sistem 2- Minggu yang berisi Kamis pertama tahun ini diberi nomor minggu
           1.</p>
-      </td>
+      </th>
     </tr>
-  </tbody>
+  </thead>
+  <tbody></tbody>
 </table>{% hint style="info" %}
- Nilai yang mungkin dari \[return\_type\] adalah:   
-  
-
+Nilai yang mungkin dari \[return\_type\] adalah:
 
 | \[return\_type\] | Berarti |
 | :--- | :--- |
@@ -67,7 +62,7 @@ Jika dihilangkan, argumen \[return\_type\] diatur ke nilai default 1 \(yaitu fun
 Perhatikan bahwa hanya opsi 1 dan 2 di atas yang tersedia di Excel 2007 dan sebelumnya.
 {% endhint %}
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 ![](../.gitbook/assets/screenshot-216.png)
 

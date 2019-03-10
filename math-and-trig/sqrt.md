@@ -4,7 +4,7 @@ description: Menghitung akar kuadrat positif dari angka yang disediakan
 
 # SQRT
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi" %}
@@ -14,13 +14,13 @@ SQRT( number )
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter
+## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |
 | Number | Nilai numerik yang ingin Anda temukan akar kuadratnya. |
 
-### **Contoh Implementasi**
+## **Contoh Implementasi**
 
 ![Rumus](../.gitbook/assets/screenshot-173.png)
 

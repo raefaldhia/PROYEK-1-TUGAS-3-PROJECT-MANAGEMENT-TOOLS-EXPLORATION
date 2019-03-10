@@ -4,7 +4,7 @@ description: Mengembalikan jumlah kuadrat selisih nilai yang terkait dalam dua a
 
 # SUMXMY2
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi" %}
@@ -14,7 +14,7 @@ SUMXMY2( array_x, array_y )
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter
+## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |
@@ -23,8 +23,7 @@ SUMXMY2( array_x, array_y )
 
 {% hint style="info" %}
 
-
-### Keterangan
+## Keterangan
 
 * Argumen harus berupa angka atau nama, array, atau referensi yang berisi angka-angka.
 * Jika sebuah argumen array atau referensi mencakup teks, nilai logika, atau sel kosong, maka nilai-nilai itu diabaikan; akan tetapi sel-sel dengan nilai nol dimasukkan.
@@ -32,9 +31,8 @@ SUMXMY2( array_x, array_y )
 * Persamaan untuk jumlah selisih kuadrat adalah:
 
   ![Persamaan](https://support.content.office.net/id-id/media/1be4bfbd-aec7-4ab6-bf9a-c00736129537.gif)
-{% endhint %}
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 ![Rumus](../.gitbook/assets/screenshot-193.png)
 

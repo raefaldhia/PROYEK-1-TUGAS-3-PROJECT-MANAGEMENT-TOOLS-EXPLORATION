@@ -111,4 +111,3 @@
 * [TANH](math-and-trig/tanh.md)
 * [TRUNCH](math-and-trig/trunch.md)
 
-

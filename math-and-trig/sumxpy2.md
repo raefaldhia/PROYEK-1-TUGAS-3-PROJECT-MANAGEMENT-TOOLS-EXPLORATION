@@ -1,6 +1,6 @@
 # SUMX2PY2
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi" %}
@@ -10,7 +10,7 @@ SUMX2PY2 ( array_x , array_y )
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter
+## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |
@@ -19,8 +19,7 @@ SUMX2PY2 ( array_x , array_y )
 
 {% hint style="info" %}
 
-
-### Keterangan
+## Keterangan
 
 * Argumen harus berupa angka atau nama, array, atau referensi yang berisi angka-angka.
 * Jika sebuah argumen array atau referensi mencakup teks, nilai logika, atau sel kosong, maka nilai-nilai itu diabaikan; akan tetapi sel-sel dengan nilai nol dimasukkan.
@@ -28,9 +27,8 @@ SUMX2PY2 ( array_x , array_y )
 * Persamaan untuk jumlah dari jumlah kuadrat adalah:
 
   ![Persamaan](https://support.content.office.net/id-id/media/3b95eb64-83a6-4a05-a6ff-730632a3b6e2.gif)
-{% endhint %}
 
-### Contoh Implementasi 
+## Contoh Implementasi
 
 ![Rumus](../.gitbook/assets/screenshot-195.png)
 

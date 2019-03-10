@@ -4,30 +4,26 @@ description: >-
   yang disediakan.
 ---
 
-# Excel RIGHT Function
+# RIGHT
 
 ![Sumber : https://exceljet.net/excel-functions/excel-right-function ](../.gitbook/assets/right.png)
 
-
-
-#### Syntax
+## Syntax
 
 ```text
 =RIGHT (text, [num_chars])
 ```
 
-#### Parameter 
+## Parameter
 
 | **Parameter** | **Penjelasan** |
 | :--- | :--- |
-|  text | Teks yang digunakan untuk mengekstrak karakter |
+| text | Teks yang digunakan untuk mengekstrak karakter |
 | num\_chars | \[opsional\] Jumlah karakter untuk diekstraksi, mulai dari sisi kanan teks. Default = 1. |
 
-#### Note
+## Note
 
 {% hint style="warning" %}
+
 * Gunakan fungsi RIGHT ketika Anda ingin mengekstraksi karakter mulai dari sisi kanan teks.
-{% endhint %}
-
-
 

@@ -2,29 +2,29 @@
 description: menghitung hasil keamanan dengan periode pertama
 ---
 
-# Excel ODDFYIELD Function
+# ODDFYIELD
+
+Menghitung hasil keamanan dengan periode pertama,
 
 ![Sumber : https://exceljet.net/excel-functions/excel-oddfyield-function](../.gitbook/assets/oddfyield.png)
-
-
 
 #### Syntax
 
 ```text
-=ODDFYIELD (sd, md, id, fd, rate, pr, redem, freq, [basis]) 
+=ODDFYIELD(sd;md;id;fd;rate;pr;redem;freq;[basis])
 ```
 
 | **Parameter** | **Penjelasan** |
 | :--- | :--- |
-|  settlement | Settlement tanggal keamanan |
-| maturity | Maturity tanggal keamanan |
-| issue | Tanggal masalah keamanan |
-| first\_coupon | Tanggal kupon pertama keamanan |
-| rate | Tingkat bunga sekuritas |
-| pr | Harga keamanan |
-| redemption | Nilai penebusan keamanan per nilai nominal $ 100 |
-| frequency | Jumlah pembayaran kupon per tahun |
-| \[basis\] | Argumen integer opsional yang menentukan basis hitungan hari keuangan yang digunakan oleh keamanan |
+| settlement | Settlement tanggal keamanan. |
+| maturity | Maturity tanggal keamanan. |
+| issue | Tanggal masalah keamanan. |
+| first\_coupon | Tanggal kupon pertama keamanan. |
+| rate | Tingkat bunga sekuritas. |
+| pr | Harga keamanan. |
+| redemption | Nilai penebusan keamanan per nilai nominal $ 100. |
+| frequency | Jumlah pembayaran kupon per tahun. |
+| \[basis\] | Argumen integer opsional yang menentukan basis hitungan hari keuangan yang digunakan oleh keamanan. |
 
 {% hint style="warning" %}
 * Jika tanggal tidak valid \(mis. Bukan tanggal sebenarnya\) ODDFYIELD mengembalikan \#VALUE!

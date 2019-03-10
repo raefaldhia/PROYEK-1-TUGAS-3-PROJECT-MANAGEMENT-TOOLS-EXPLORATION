@@ -4,29 +4,27 @@ description: >-
   tertentu berdasarkan pada struktur tabel pivot, sebagai ganti sel referensi.
 ---
 
-# Excel GETPIVOTDATA Function
+# GETPIVOTDATA
 
 ![Sumber : https://exceljet.net/excel-functions/excel-getpivotdata-function](../.gitbook/assets/getpivotdata.png)
 
-
-
-#### Syntax
+## Syntax
 
 ```text
 =GETPIVOTDATA (data_field, pivot_table, [field1, item1], ...)
 ```
 
-#### Parameter 
+## Parameter
 
 | **Parameter** | **Penjelasan** |
 | :--- | :--- |
-|  data\_field | Nama field untuk querry |
+| data\_field | Nama field untuk querry |
 | pivot\_table | Referensi ke sel mana pun di tabel pivot untuk querry |
 | field1, item1 | \[opsional\] Pasangan field / item |
 
-#### Note
+## Note
 
 {% hint style="warning" %}
+
 * Gunakan fungsi GETPIVOTDATA untuk querry tabel pivot yang ada dan mengambil data spesifik berdasarkan pada struktur tabel pivot.
-{% endhint %}
 

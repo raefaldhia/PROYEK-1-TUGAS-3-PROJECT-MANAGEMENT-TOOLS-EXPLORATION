@@ -6,7 +6,7 @@ description: >-
 
 # WORKDAY.INTL
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi" %}
@@ -16,7 +16,7 @@ WORKDAY.INTL( start_date, days, [weekend], [holidays] )
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter
+## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |
@@ -26,12 +26,8 @@ WORKDAY.INTL( start_date, days, [weekend], [holidays] )
 | \[holiday\] | Argumen opsional, yang menentukan array tanggal \(selain akhir pekan\) yang tidak dihitung sebagai hari kerja. |
 
 {% hint style="info" %}
-
-
 | Nilai angka yang mungkin untuk argumen **\[weeken\]** adalah: |
 | :--- |
-
-
 
 
 | \[akhir pekan\] | hari dihitung  sebagai akhir pekan |
@@ -65,7 +61,7 @@ Sebagai contoh,
 String "1111111" tidak valid.
 {% endhint %}
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 Lembar kerja di bawah ini menunjukkan tiga contoh fungsi Excel Workday.Intl. Dalam ketiga contoh, fungsi tersebut digunakan untuk menghitung tanggal yaitu 25 hari kerja setelah 01 Desember 2015. Namun, akhir pekan dan hari libur berbeda dalam setiap kasus.
 
@@ -75,7 +71,7 @@ Lembar kerja di bawah ini menunjukkan tiga contoh fungsi Excel Workday.Intl. Dal
 
 Perhatikan bahwa, dalam rumus di atas:
 
-*  Dalam contoh di sel A7, akhir pekan memiliki pengaturan default \(jatuh pada hari Sabtu dan Minggu\), sehingga argumen \[akhir pekan\] dapat dihilangkan dari fungsi;
-*  Dalam contoh di sel A7 dan A9, tidak ada hari libur tambahan yang akan dimasukkan dalam perhitungan, sehingga argumen \[hari libur\] dihilangkan dari fungsi;
-*  Dalam contoh di sel A9, string teks "0000111" mendefinisikan akhir pekan menjadi hari Jumat, Sabtu dan Minggu.
+* Dalam contoh di sel A7, akhir pekan memiliki pengaturan default \(jatuh pada hari Sabtu dan Minggu\), sehingga argumen \[akhir pekan\] dapat dihilangkan dari fungsi;
+* Dalam contoh di sel A7 dan A9, tidak ada hari libur tambahan yang akan dimasukkan dalam perhitungan, sehingga argumen \[hari libur\] dihilangkan dari fungsi;
+* Dalam contoh di sel A9, string teks "0000111" mendefinisikan akhir pekan menjadi hari Jumat, Sabtu dan Minggu.
 

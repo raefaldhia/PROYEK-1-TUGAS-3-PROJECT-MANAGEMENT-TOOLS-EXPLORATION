@@ -6,7 +6,7 @@ description: >-
 
 # TRUNCH
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi" %}
@@ -16,24 +16,21 @@ TRUNC( number, [num_digits] )
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter
+## Parameter
+
+| Parameter | Deskripsi |
+| :--- | :--- |
+
+
+| Number | Nomor yang akan dipotong |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Parameter</th>
-      <th style="text-align:left">Deskripsi</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Number</td>
-      <td style="text-align:left">Nomor yang akan dipotong</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">[num_digit]</td>
-      <td style="text-align:left">
-        <p></p>
+      <th style="text-align:left">[num_digit]</th>
+      <th style="text-align:left">
         <p>Argumen opsional yang menentukan jumlah tempat desimal untuk memotong
           angka yang disediakan.</p>
         <p>Jika dihilangkan, argumen [num_digits] menggunakan nilai default 0.</p>
@@ -46,12 +43,11 @@ TRUNC( number, [num_digits] )
           <li>Nilai [num_digits] negatif menentukan jumlah digit di sebelah kiri titik
             desimal.</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>### Contoh Implementasi 
-
-![Rumus](../.gitbook/assets/screenshot-182.png)
+  </thead>
+  <tbody></tbody>
+</table>![Rumus](../.gitbook/assets/screenshot-182.png)
 
 ![Hasil](../.gitbook/assets/screenshot-181.png)
 

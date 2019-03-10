@@ -6,7 +6,7 @@ description: >-
 
 # SUM
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi" %}
@@ -16,13 +16,13 @@ SUM( number1, [number2], ... )
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter 
+## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |
 | Number | Seperangkat angka \(atau array angka\) yang akan ditentukan jumlahnya. |
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 ![Rumus](../.gitbook/assets/screenshot-185.png)
 

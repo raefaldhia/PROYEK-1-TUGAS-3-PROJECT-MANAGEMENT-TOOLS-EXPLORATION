@@ -6,7 +6,7 @@ description: >-
 
 # YEARFRAC
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi" %}
@@ -16,7 +16,7 @@ YEARFRAC( start_date, end_date, [basis] )
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter
+## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |
@@ -38,13 +38,11 @@ Nilai yang mungkin dari **\[basis\]**
 | 4 | European 30/360 |
 {% endhint %}
 
-### Contoh Implementasi
+## Contoh Implementasi
 
 Lembar kerja di bawah ini menunjukkan lima contoh fungsi Excel Yearfrac. Dalam setiap kasus, fungsi ini digunakan untuk menghitung fraksi tahun antara 1 Januari 2015 dan 31 Maret 2015. Namun, setiap kasus menggunakan Dasar Hitungan Hari yang berbeda.
 
 ![Rumus](../.gitbook/assets/screenshot-226.png)
 
 ![Hasil](../.gitbook/assets/screenshot-225.png)
-
-
 

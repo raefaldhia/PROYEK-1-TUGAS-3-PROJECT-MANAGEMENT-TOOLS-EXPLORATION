@@ -6,7 +6,7 @@ description: >-
 
 # SQRTPI
 
-### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungsi" %}
@@ -16,19 +16,17 @@ SQRTPI ( Number )
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Parameter
+## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |
-| Number  | Nilai numerik positif, yang ingin Anda kalikan dengan pi, sebelum menghitung akar kuadrat. |
+| Number | Nilai numerik positif, yang ingin Anda kalikan dengan pi, sebelum menghitung akar kuadrat. |
 
 {% hint style="info" %}
 
+> ### Jika angka &lt; 0, SQRTPI mengembalikan nilai kesalahan \#NUM!.
 
-> #### Jika angka &lt; 0, SQRTPI mengembalikan nilai kesalahan \#NUM!.
-{% endhint %}
-
-###  Implementasi
+## Implementasi
 
 ![](../.gitbook/assets/screenshot-178.png)
 

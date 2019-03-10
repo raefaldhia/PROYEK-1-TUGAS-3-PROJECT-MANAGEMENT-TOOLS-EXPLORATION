@@ -4,19 +4,17 @@ description: >-
   disediakan.
 ---
 
-# Excel MID Function
+# MID
 
 ![Sumber : https://exceljet.net/excel-functions/excel-mid-function](../.gitbook/assets/mid.png)
 
-
-
-#### Syntax
+## Syntax
 
 ```text
 =MID (text, start_num, num_chars)
 ```
 
-#### Parameter 
+## Parameter
 
 | **Parameter** | **Penjelasan** |
 | :--- | :--- |
@@ -24,10 +22,10 @@ description: >-
 | start\_num | Lokasi karakter pertama yang diekstrak |
 | num\_chars | Jumlah karakter untuk diekstraksi |
 
-#### Note
+## Note
 
 {% hint style="warning" %}
+
 * Gunakan fungsi MID saat Anda ingin mengekstraksi teks dari dalam string teks, berdasarkan lokasi dan panjangnya.
 * Anda dapat menggunakan FIND atau SEARCH untuk menemukan start\_num ketika Anda tidak tahu lokasi sebelumnya.
-{% endhint %}
 

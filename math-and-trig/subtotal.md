@@ -6,7 +6,7 @@ description: >-
 
 # SUBTOTAL
 
-#### Syntax
+## Syntax
 
 {% code-tabs %}
 {% code-tabs-item title="Sintaks Fungs" %}
@@ -16,7 +16,7 @@ SUBTOTAL ( function_num , ref1 , [ref2] , ...)
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-#### Parameter
+## Parameter
 
 <table>
   <thead>
