@@ -2,6 +2,41 @@
 
 * [Home](README.md)
 
+## Financial
+
+* [IPMT](financial/ipmt.md)
+* [IRR](financial/irr.md)
+* [ISPMT](financial/ispmt.md)
+* [MDURATION](financial/mduration.md)
+* [MIRR](financial/mirr.md)
+* [NOMINAL](financial/nominal.md)
+* [NPER](financial/nper.md)
+* [NPV](financial/npv.md)
+* [ODDFYIELD](financial/oddfyield.md)
+
+## Text
+
+* [LEFT](text/left.md)
+* [LEN](text/len.md)
+* [LOWER](text/lower.md)
+* [MID](text/mid.md)
+* [NUMBERVALUE](text/numbervalue.md)
+* [PROPER](text/proper.md)
+* [REPLACE](text/replace.md)
+* [REPT](text/rept.md)
+* [RIGHT](text/right.md)
+
+## Lookup & Reference
+
+* [ADDRESS](lookup-and-reference/address.md)
+* [AREAS](lookup-and-reference/areas.md)
+* [CHOOSE](lookup-and-reference/choose.md)
+* [COLUMN](lookup-and-reference/column.md)
+* [FORMULATEXT](lookup-and-reference/formulatext.md)
+* [GETPIVOTDATA](lookup-and-reference/getpivotdata.md)
+* [HLOOKUP](lookup-and-reference/hlookup.md)
+* [HYPERLINK](lookup-and-reference/hyperlink.md)
+
 ## Date & Time
 
 * [DATE](date-and-time/date.md)
