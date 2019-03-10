@@ -2,7 +2,7 @@
 
 Mendapatkan tanda dari angka.
 
-#### Syntax
+## Syntax
 
 ```text
 =SIGN(number)
@@ -11,3 +11,4 @@ Mendapatkan tanda dari angka.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | number | Segala bilangan real. |
+

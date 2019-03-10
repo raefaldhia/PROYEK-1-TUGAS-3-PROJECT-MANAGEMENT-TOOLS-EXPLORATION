@@ -2,7 +2,7 @@
 
 Membulatkan angka kebawah menuju nol.
 
-#### Syntax
+## Syntax
 
 ```text
 =ROUNDDOWN(number)
@@ -11,4 +11,5 @@ Membulatkan angka kebawah menuju nol.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | number | Angka yang akan dibulatkan. |
-| num_digit | Banyaknya digit angka yang diinginkan. |
+| num\_digit | Banyaknya digit angka yang diinginkan. |
+

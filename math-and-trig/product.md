@@ -2,7 +2,7 @@
 
 Mendapatkan hasil kali dari semua argumen yang telah ditentukan.
 
-#### Syntax
+## Syntax
 
 ```text
 =PRODUCT(number1;[number2];...)
@@ -12,3 +12,4 @@ Mendapatkan hasil kali dari semua argumen yang telah ditentukan.
 | :--- | :--- |
 | number1 | Angka atau rentang pertama yang ingin dikalikan. |
 | number2 | Angka atau rentang tambahan yang ingin dikalikan. |
+

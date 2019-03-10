@@ -14,7 +14,7 @@ Mengembalikan format berupa tanggal dari argumen yang telah diberikan.
 | month | bulan |
 | day | hari |
 
-#### Contoh
+## Contoh
 
 | A | Hasil |
 | :--- | :--- |

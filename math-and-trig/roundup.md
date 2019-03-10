@@ -2,7 +2,7 @@
 
 Membulatkan angka kebawah menjauhi nol.
 
-#### Syntax
+## Syntax
 
 ```text
 =ROUNDUP(number;num_digit)
@@ -11,4 +11,5 @@ Membulatkan angka kebawah menjauhi nol.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | number | Angka yang akan dibulatkan. |
-| num_digit | Banyaknya digit angka yang diinginkan. |
+| num\_digit | Banyaknya digit angka yang diinginkan. |
+

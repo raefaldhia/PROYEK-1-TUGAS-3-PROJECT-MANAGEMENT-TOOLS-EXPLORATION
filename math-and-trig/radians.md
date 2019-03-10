@@ -2,7 +2,7 @@
 
 Mengkonversi derajat ke radian.
 
-#### Syntax
+## Syntax
 
 ```text
 =RADIANS(angle)
@@ -11,3 +11,4 @@ Mengkonversi derajat ke radian.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | angle | Besar sudut dalam derajat yang akan dikonversi. |
+

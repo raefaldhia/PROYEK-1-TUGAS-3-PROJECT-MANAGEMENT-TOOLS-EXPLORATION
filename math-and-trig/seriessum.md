@@ -2,7 +2,7 @@
 
 Mendapatkan jumlah dari seri perpangkatan berdasarkan formula:?.
 
-#### Syntax
+## Syntax
 
 ```text
 =SERIESSUM(X;N;M;Coefficients)
@@ -14,3 +14,4 @@ Mendapatkan jumlah dari seri perpangkatan berdasarkan formula:?.
 | N | Nilai awal pangkat yang akan meningkatkan X. |
 | M | Langkah untuk meningkatkan N untuk tiap masa dalam seri. |
 | Coefficients | Sekumpulan koefisien yang mana setiap perpangkatan X dikalikan berturut-turut. |
+

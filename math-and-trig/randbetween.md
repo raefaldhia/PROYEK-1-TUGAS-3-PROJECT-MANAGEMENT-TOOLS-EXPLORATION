@@ -2,7 +2,7 @@
 
 Mendapatkan angka acak diantara angka yang telah ditentukan.
 
-#### Syntax
+## Syntax
 
 ```text
 =RANDBETWEEN(bottom;top)
@@ -12,3 +12,4 @@ Mendapatkan angka acak diantara angka yang telah ditentukan.
 | :--- | :--- |
 | bottom | Angka terkecil dari fungsi ini yang mungkin didapatkan. |
 | top | Angka terbesar dari fungsi ini yang mungkin didapatkan. |
+

@@ -2,7 +2,7 @@
 
 Mendapatkan sine dari sebuah sudut.
 
-#### Syntax
+## Syntax
 
 ```text
 =SIN(number)
@@ -11,3 +11,4 @@ Mendapatkan sine dari sebuah sudut.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | number | Sudut dalam radian. |
+

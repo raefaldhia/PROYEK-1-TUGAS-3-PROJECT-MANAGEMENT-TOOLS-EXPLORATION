@@ -2,7 +2,7 @@
 
 Mengubah input teks tanggal menjadi nomor serial.
 
-#### Syntax
+## Syntax
 
 ```text
 =DATEVALUE(date_text)

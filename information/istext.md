@@ -2,7 +2,7 @@
 
 Memeriksa apakah value yang diperiksa merupakan teks. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-#### Syntax
+## Syntax
 
 ```text
 =ISTEXT(value)
@@ -11,3 +11,4 @@ Memeriksa apakah value yang diperiksa merupakan teks. Mengembalikan `TRUE` atau 
 | Parameter | Deskripsi |
 | :--- | :--- |
 | value | Nilai yang akan diuji |
+

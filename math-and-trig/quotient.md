@@ -1,8 +1,8 @@
 # QUOTIENT
 
-Mendapatkan hasil pembagi dari dua angka (sisa pembagian diabaikan).
+Mendapatkan hasil pembagi dari dua angka \(sisa pembagian diabaikan\).
 
-#### Syntax
+## Syntax
 
 ```text
 =QUOTIENT(numerator;denominator)
@@ -12,3 +12,4 @@ Mendapatkan hasil pembagi dari dua angka (sisa pembagian diabaikan).
 | :--- | :--- |
 | numerator | Angka yang akan dilakukan pembagian. |
 | denominator | Angka pembagi. |
+

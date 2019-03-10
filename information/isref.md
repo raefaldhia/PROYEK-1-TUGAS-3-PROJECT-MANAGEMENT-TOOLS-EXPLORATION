@@ -2,7 +2,7 @@
 
 Memeriksa apakah value yang diperiksa merupakan referensi. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-#### Syntax
+## Syntax
 
 ```text
 =ISREF(value)
@@ -11,3 +11,4 @@ Memeriksa apakah value yang diperiksa merupakan referensi. Mengembalikan `TRUE` 
 | Parameter | Deskripsi |
 | :--- | :--- |
 | value | Nilai yang akan diuji |
+

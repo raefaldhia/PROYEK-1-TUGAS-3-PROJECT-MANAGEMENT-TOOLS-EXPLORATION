@@ -2,7 +2,7 @@
 
 Membulatkan angka kedalam beberapa digit angka yang telah ditentukan.
 
-#### Syntax
+## Syntax
 
 ```text
 =ROUND(number;num_digit)
@@ -11,4 +11,5 @@ Membulatkan angka kedalam beberapa digit angka yang telah ditentukan.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | number | Angka yang akan dibulatkan. |
-| num_digit | Banyaknya digit angka yang diinginkan. |
+| num\_digit | Banyaknya digit angka yang diinginkan. |
+

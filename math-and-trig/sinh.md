@@ -2,7 +2,7 @@
 
 Mendapatkan sine hiperbolik dari sebuah sudut.
 
-#### Syntax
+## Syntax
 
 ```text
 =SINH(number)
@@ -11,3 +11,4 @@ Mendapatkan sine hiperbolik dari sebuah sudut.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | number | Sudut dalam radian. |
+

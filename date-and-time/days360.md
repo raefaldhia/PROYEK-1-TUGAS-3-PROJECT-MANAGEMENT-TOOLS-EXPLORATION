@@ -2,7 +2,7 @@
 
 Menghitung jumlah hari diantara dua tanggal berdasarkan sistem 360 hari penanggalan setiap tahun.
 
-#### Syntax
+## Syntax
 
 ```text
 =DAYS360(start_date;end_date;[method])

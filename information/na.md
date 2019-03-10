@@ -1,8 +1,8 @@
 # NA
 
-Memeriksa apakah value adalah #N/A, mengembalikan `TRUE` atau `FALSE`.
+Memeriksa apakah value adalah \#N/A, mengembalikan `TRUE` atau `FALSE`.
 
-#### Syntax
+## Syntax
 
 ```text
 =NA(value)
@@ -11,3 +11,4 @@ Memeriksa apakah value adalah #N/A, mengembalikan `TRUE` atau `FALSE`.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | value | Nilai yang akan diperiksa |
+
