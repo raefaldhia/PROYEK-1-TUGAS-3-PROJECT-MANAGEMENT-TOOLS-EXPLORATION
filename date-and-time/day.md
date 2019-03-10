@@ -2,7 +2,7 @@
 
 Mendapatkan hari dari nomor serial.
 
-#### Syntax
+## Syntax
 
 ```text
 =DAY(serial_number)
@@ -10,4 +10,5 @@ Mendapatkan hari dari nomor serial.
 
 | Parameter | Deskripsi |
 | :--- | :--- |
-| serial_number | Nomor serial |
+| serial\_number | Nomor serial |
+

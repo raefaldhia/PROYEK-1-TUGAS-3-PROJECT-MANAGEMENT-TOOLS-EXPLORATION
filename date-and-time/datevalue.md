@@ -10,4 +10,5 @@ Mengubah input teks tanggal menjadi nomor serial.
 
 | Parameter | Deskripsi |
 | :--- | :--- |
-| date_text | Text yang merepresentasikan tanggal dalam format penanggalan excel |
+| date\_text | Text yang merepresentasikan tanggal dalam format penanggalan excel |
+

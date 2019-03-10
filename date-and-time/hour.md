@@ -2,7 +2,7 @@
 
 Mengembalikan jam dari time value.
 
-#### Syntax
+## Syntax
 
 ```text
 =HOUR(<Param>)
@@ -10,4 +10,5 @@ Mengembalikan jam dari time value.
 
 | Parameter | Deskripsi |
 | :--- | :--- |
-| serial_number | Waktu yang digunakan untuk didapatkan nilai jamnya. |
+| serial\_number | Waktu yang digunakan untuk didapatkan nilai jamnya. |
+
