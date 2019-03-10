@@ -5,7 +5,7 @@ Mengembalikan jam dari time value.
 #### Syntax
 
 ```text
-=HOUR(<Param>)
+=HOUR(serial\_number)
 ```
 
 | Parameter | Deskripsi |
