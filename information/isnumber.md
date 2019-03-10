@@ -2,7 +2,7 @@
 
 Memeriksa apakah value yang diperiksa merupakan nomor. Mengembalikan TRUE atau FALSE tergantung hasil pemeriksaan.
 
-#### Syntax
+## Syntax
 
 ```text
 =ISNUMBER(value)
@@ -11,3 +11,4 @@ Memeriksa apakah value yang diperiksa merupakan nomor. Mengembalikan TRUE atau F
 | Parameter | Deskripsi |
 | :--- | :--- |
 | value | Nilai yang akan diuji. |
+

@@ -2,7 +2,7 @@
 
 Mengembalikan nilai bertipe number sebagai representasi dari nilai error dari Microsoft Excel.
 
-#### Syntax
+## Syntax
 
 ```text
 =ERROR.TYPE(Error_val)
@@ -10,4 +10,5 @@ Mengembalikan nilai bertipe number sebagai representasi dari nilai error dari Mi
 
 | Parameter | Deskripsi |
 | :--- | :--- |
-| Error_val | Nilai error untuk mengidentifikasi nomor yang didapat. |
+| Error\_val | Nilai error untuk mengidentifikasi nomor yang didapat. |
+

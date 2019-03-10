@@ -2,7 +2,7 @@
 
 Mengembalikan informasi mengenai operating sistem yang digunakan.
 
-#### Syntax
+## Syntax
 
 ```text
 =INFO(Type_text)
@@ -10,4 +10,5 @@ Mengembalikan informasi mengenai operating sistem yang digunakan.
 
 | Parameter | Deskripsi |
 | :--- | :--- |
-| Type_text | Text yang menentukan informasi apa yang akan didapatkan. |
+| Type\_text | Text yang menentukan informasi apa yang akan didapatkan. |
+

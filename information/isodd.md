@@ -2,7 +2,7 @@
 
 Memeriksa apakah value yang diperiksa merupakan bilangan ganjil. Mengembalikan TRUE atau FALSE tergantung hasil pemeriksaan.
 
-#### Syntax
+## Syntax
 
 ```text
 =ISODD(value)
@@ -11,3 +11,4 @@ Memeriksa apakah value yang diperiksa merupakan bilangan ganjil. Mengembalikan T
 | Parameter | Deskripsi |
 | :--- | :--- |
 | value | Nilai yang akan diuji |
+

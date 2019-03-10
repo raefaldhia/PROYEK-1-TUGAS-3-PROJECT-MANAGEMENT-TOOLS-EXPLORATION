@@ -2,7 +2,7 @@
 
 Menghitung jumlah hari diantara dua tanggal.
 
-#### Syntax
+## Syntax
 
 ```text
 =DAYS(end_date;start_date)

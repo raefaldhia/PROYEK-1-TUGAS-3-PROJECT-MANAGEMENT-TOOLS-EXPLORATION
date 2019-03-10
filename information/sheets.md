@@ -2,7 +2,7 @@
 
 Mendapatkan banyaknya sheet didalam referensi.
 
-#### Syntax
+## Syntax
 
 ```text
 =SHEETS([reference])
@@ -11,3 +11,4 @@ Mendapatkan banyaknya sheet didalam referensi.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | reference | Referensi sumber yang banyak sheet nya ingin diketahui. |
+

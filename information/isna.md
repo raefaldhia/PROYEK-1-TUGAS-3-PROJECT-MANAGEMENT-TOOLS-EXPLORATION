@@ -2,7 +2,7 @@
 
 Memeriksa apakah value yang diperiksa merupakan `#N/A`. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-#### Syntax
+## Syntax
 
 ```text
 =ISNA(value)
@@ -11,3 +11,4 @@ Memeriksa apakah value yang diperiksa merupakan `#N/A`. Mengembalikan `TRUE` ata
 | Parameter | Deskripsi |
 | :--- | :--- |
 | value | Nilai yang akan diuji |
+

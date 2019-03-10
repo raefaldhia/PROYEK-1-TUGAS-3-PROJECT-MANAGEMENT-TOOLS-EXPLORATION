@@ -2,7 +2,7 @@
 
 Memeriksa apakah value yang diperiksa merupakan error value. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-#### Syntax
+## Syntax
 
 ```text
 =ISERROR(value)
@@ -11,3 +11,4 @@ Memeriksa apakah value yang diperiksa merupakan error value. Mengembalikan `TRUE
 | Parameter | Deskripsi |
 | :--- | :--- |
 | value | Nilai yang akan diuji. |
+
