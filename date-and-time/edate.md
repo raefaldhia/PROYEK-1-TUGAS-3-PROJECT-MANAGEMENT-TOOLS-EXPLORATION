@@ -2,7 +2,7 @@
 
 Mengembalikan nomor serial merepresentasikan tanggal yang berindikator banyaknya bulan sebelum atau sesudah start\_date.
 
-## Syntax
+#### Syntax
 
 ```text
 =EDATE(start_date;month)

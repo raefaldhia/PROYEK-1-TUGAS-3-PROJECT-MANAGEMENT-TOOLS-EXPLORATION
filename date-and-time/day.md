@@ -2,7 +2,7 @@
 
 Mendapatkan hari dari nomor serial.
 
-## Syntax
+#### Syntax
 
 ```text
 =DAY(serial_number)

@@ -2,7 +2,7 @@
 
 Mengembalikan jam dari time value.
 
-## Syntax
+#### Syntax
 
 ```text
 =HOUR(<Param>)
