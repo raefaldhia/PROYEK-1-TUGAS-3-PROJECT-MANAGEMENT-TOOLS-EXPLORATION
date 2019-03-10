@@ -1,8 +1,8 @@
 # ISFORMULA
 
-Memeriksa apakah terdapat referensi ke cell yang berisi formula. Mengembalikan TRUE atau FALSE tergantung hasil pemeriksaan.
+Memeriksa apakah terdapat referensi ke cell yang berisi formula. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-## Syntax
+#### Syntax
 
 ```text
 =ISFORMULA(value)

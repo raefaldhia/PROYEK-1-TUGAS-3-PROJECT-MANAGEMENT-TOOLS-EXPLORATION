@@ -1,8 +1,8 @@
 # ISLOGICAL
 
-Memeriksa apakah value yang diperiksa mengacu pada logical value. Mengembalikan TRUE atau FALSE tergantung hasil pemeriksaan.
+Memeriksa apakah value yang diperiksa mengacu pada logical value. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-## Syntax
+#### Syntax
 
 ```text
 =ISLOGICAL(value)

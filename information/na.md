@@ -1,14 +1,10 @@
 # NA
 
-Memeriksa apakah value adalah \#N/A, mengembalikan `TRUE` atau `FALSE`.
+Mengembalikan nilai `#N/A`.
 
-## Syntax
+#### Syntax
 
 ```text
-=NA(value)
+=NA()
 ```
-
-| Parameter | Deskripsi |
-| :--- | :--- |
-| value | Nilai yang akan diperiksa |
 

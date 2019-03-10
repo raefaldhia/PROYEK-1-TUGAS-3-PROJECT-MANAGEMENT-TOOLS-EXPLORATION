@@ -2,7 +2,7 @@
 
 Mendapatkan hasil kali dari semua argumen yang telah ditentukan.
 
-## Syntax
+#### Syntax
 
 ```text
 =PRODUCT(number1;[number2];...)

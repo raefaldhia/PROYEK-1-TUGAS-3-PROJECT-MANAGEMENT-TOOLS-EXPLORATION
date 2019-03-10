@@ -1,8 +1,10 @@
 # SERIESSUM
 
-Mendapatkan jumlah dari seri perpangkatan berdasarkan formula:?.
+Mendapatkan jumlah dari seri perpangkatan berdasarkan formula:
 
-## Syntax
+$$SERIES(x, n, m, a) = a_1x^n + a_2x^{n+m}+a_3^{n+2m}+...+a_ix^{n+(i-1)m}$$ 
+
+#### Syntax
 
 ```text
 =SERIESSUM(X;N;M;Coefficients)

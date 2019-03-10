@@ -2,7 +2,7 @@
 
 Mengembalikan nomor seri untuk hari terakhir dari suatu bulan, yang berindikator banyaknya bulan sebelum atau sesudah start\_date.
 
-## Syntax
+#### Syntax
 
 ```text
 =EOMONTH(start_date;month)

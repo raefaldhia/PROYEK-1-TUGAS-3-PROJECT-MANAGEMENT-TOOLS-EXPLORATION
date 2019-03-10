@@ -1,8 +1,8 @@
 # ISNONTEXT
 
-.
+Memeriksa apakah value yang diperiksa merupakan value yang bukan text. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-## Syntax
+#### Syntax
 
 ```text
 =ISNONTEXT(value)

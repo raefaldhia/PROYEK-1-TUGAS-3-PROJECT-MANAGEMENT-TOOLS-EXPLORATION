@@ -2,7 +2,7 @@
 
 Membulatkan angka kedalam beberapa digit angka yang telah ditentukan.
 
-## Syntax
+#### Syntax
 
 ```text
 =ROUND(number;num_digit)

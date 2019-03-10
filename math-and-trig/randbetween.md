@@ -2,7 +2,7 @@
 
 Mendapatkan angka acak diantara angka yang telah ditentukan.
 
-## Syntax
+#### Syntax
 
 ```text
 =RANDBETWEEN(bottom;top)

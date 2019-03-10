@@ -1,8 +1,8 @@
 # ISEVEN
 
-Memeriksa apakah value yang diperiksa merupakan bilangan genap. Mengembalikan TRUE atau FALSE tergantung hasil pemeriksaan.
+Memeriksa apakah value yang diperiksa merupakan bilangan genap. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-## Syntax
+#### Syntax
 
 ```text
 =ISEVEN(number)

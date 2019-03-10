@@ -1,8 +1,8 @@
 # ISNUMBER
 
-Memeriksa apakah value yang diperiksa merupakan nomor. Mengembalikan TRUE atau FALSE tergantung hasil pemeriksaan.
+Memeriksa apakah value yang diperiksa merupakan nomor. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-## Syntax
+#### Syntax
 
 ```text
 =ISNUMBER(value)

@@ -2,7 +2,7 @@
 
 Mendapatkan secan dari sebuah sudut.
 
-## Syntax
+#### Syntax
 
 ```text
 =SEC(number)

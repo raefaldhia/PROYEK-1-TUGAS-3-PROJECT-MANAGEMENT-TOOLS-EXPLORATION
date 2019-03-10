@@ -2,7 +2,7 @@
 
 Mendapatkan sine dari sebuah sudut.
 
-## Syntax
+#### Syntax
 
 ```text
 =SIN(number)

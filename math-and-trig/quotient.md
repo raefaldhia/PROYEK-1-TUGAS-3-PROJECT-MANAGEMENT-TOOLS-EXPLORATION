@@ -2,7 +2,7 @@
 
 Mendapatkan hasil pembagi dari dua angka \(sisa pembagian diabaikan\).
 
-## Syntax
+#### Syntax
 
 ```text
 =QUOTIENT(numerator;denominator)

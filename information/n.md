@@ -1,11 +1,11 @@
 # N
 
-Mengkonversi non-number ke `number`, `date` ke `serial number`, `TRUE` ke 1, dan hal lainnya ke 0.
+Mengkonversi non-number ke `number`, `date` ke nomor seri, `TRUE` ke 1, dan hal lainnya ke 0.
 
-## Syntax
+#### Syntax
 
 ```text
-=N()
+=N(value)
 ```
 
 | Parameter | Deskripsi |

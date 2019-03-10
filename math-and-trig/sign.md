@@ -2,7 +2,7 @@
 
 Mendapatkan tanda dari angka.
 
-## Syntax
+#### Syntax
 
 ```text
 =SIGN(number)

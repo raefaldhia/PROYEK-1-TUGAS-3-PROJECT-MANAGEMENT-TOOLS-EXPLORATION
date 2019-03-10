@@ -1,8 +1,8 @@
 # ISODD
 
-Memeriksa apakah value yang diperiksa merupakan bilangan ganjil. Mengembalikan TRUE atau FALSE tergantung hasil pemeriksaan.
+Memeriksa apakah value yang diperiksa merupakan bilangan ganjil. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-## Syntax
+#### Syntax
 
 ```text
 =ISODD(value)

@@ -2,7 +2,7 @@
 
 Mengembalikan informasi mengenai operating sistem yang digunakan.
 
-## Syntax
+#### Syntax
 
 ```text
 =INFO(Type_text)

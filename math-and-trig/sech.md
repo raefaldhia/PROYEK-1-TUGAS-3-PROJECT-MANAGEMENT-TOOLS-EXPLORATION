@@ -2,7 +2,7 @@
 
 Mendapatkan secan hiperbolik dari sebuah sudut.
 
-## Syntax
+#### Syntax
 
 ```text
 =SECH(number)

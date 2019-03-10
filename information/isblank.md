@@ -2,7 +2,7 @@
 
 Memeriksa cell apakah cell yang diperiksa kosong. Mengembalikan `TRUE` atau `FALSE` tergantung hasil pemeriksaan.
 
-## Syntax
+#### Syntax
 
 ```text
 =ISBLANK(value)
