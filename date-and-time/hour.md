@@ -11,3 +11,4 @@ Mengembalikan jam dari time value.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | serial\_number | Waktu yang digunakan untuk didapatkan nilai jamnya. |
+
