@@ -1,8 +1,8 @@
 # DAY
 
-Mendapatkan hari dari nomor serial.
+Mendapatkan hari dari nomor seri tanggal.
 
-## Syntax
+#### Syntax
 
 ```text
 =DAY(serial_number)
@@ -10,5 +10,11 @@ Mendapatkan hari dari nomor serial.
 
 | Parameter | Deskripsi |
 | :--- | :--- |
-| serial\_number | Nomor serial |
+| serial\_number | Nomor seri tanggal. |
+
+#### Contoh
+
+| A | Hasil |
+| :--- | :--- |
+| =DAY\(43534\) | 10 |
 

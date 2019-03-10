@@ -10,13 +10,13 @@ Mengembalikan format berupa tanggal dari argumen yang telah diberikan.
 
 | Parameter | Deskripsi |
 | :--- | :--- |
-| year | tahun |
-| month | bulan |
-| day | hari |
+| year | Angka dari tahun. |
+| month | Angka dari bulan. |
+| day | Angka dari hari. |
 
 ## Contoh
 
 | A | Hasil |
 | :--- | :--- |
-| =DATE\(2019;3;9 | 09/03/2019 |
+| =DATE\(2019;3;9\) | 09/03/2019 |
 

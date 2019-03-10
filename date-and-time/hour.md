@@ -1,8 +1,8 @@
 # HOUR
 
-Mengembalikan jam dari time value.
+Mengembalikan jam dari nilai waktu.
 
-## Syntax
+#### Syntax
 
 ```text
 =HOUR(serial_number)
@@ -11,4 +11,10 @@ Mengembalikan jam dari time value.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | serial\_number | Waktu yang digunakan untuk didapatkan nilai jamnya. |
+
+#### Contoh
+
+| A | Hasil |
+| :--- | :--- |
+| =HOUR\("10/3/2019 20:15"\) | 20 |
 
