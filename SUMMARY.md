@@ -35,3 +35,22 @@
 * [SHEET](information/sheet.md)
 * [SHEETS](information/sheets.md)
 * [TYPE](information/type.md)
+
+## Math & Trig
+
+* [PRODUCT](math-and-trig/product.md)
+* [QUOTIENT](math-and-trig/quotient.md)
+* [RADIANS](math-and-trig/radians.md)
+* [RAND](math-and-trig/rand.md)
+* [RANDBETWEEN](math-and-trig/randbetween.md)
+* [ROMAN](math-and-trig/roman.md)
+* [ROUND](math-and-trig/round.md)
+* [ROUNDDOWN](math-and-trig/rounddown.md)
+* [ROUNDUP](math-and-trig/roundup.md)
+* [SEC](math-and-trig/sec.md)
+* [SECH](math-and-trig/sech.md)
+* [SERIESSUM](math-and-trig/seriessum.md)
+* [SIGN](math-and-trig/sign.md)
+* [SIN](math-and-trig/sin.md)
+* [SINH](math-and-trig/sinh.md)
+
