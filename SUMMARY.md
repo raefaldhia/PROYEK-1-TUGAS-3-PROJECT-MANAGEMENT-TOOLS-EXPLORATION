@@ -47,6 +47,14 @@
 * [EDATE](date-and-time/edate.md)
 * [EOMONTH](date-and-time/eomonth.md)
 * [HOUR](date-and-time/hour.md)
+* [TIMEVALUE](date-and-time/timevalue.md)
+* [TODAY](date-and-time/today.md)
+* [WEEKDAY](date-and-time/weekday.md)
+* [WEEKNUM](date-and-time/weeknum.md)
+* [WORKDAY](date-and-time/workday.md)
+* [WORKDAY.INTL](date-and-time/workdat.intl.md)
+* [YEAR](date-and-time/year.md)
+* [YEARFRAC](date-and-time/yearfrac.md)
 
 ## Information
 
@@ -88,4 +96,19 @@
 * [SIGN](math-and-trig/sign.md)
 * [SIN](math-and-trig/sin.md)
 * [SINH](math-and-trig/sinh.md)
+* [SUM](math-and-trig/sum.md)
+* [SUMIF](math-and-trig/sumif.md)
+* [SUMIFS](math-and-trig/sumif5.md)
+* [SUMPRODUCT](math-and-trig/sumproduct.md)
+* [SUMSQ](math-and-trig/sumsq.md)
+* [SUMX2MY2](math-and-trig/sumx2my2.md)
+* [SUMXMY2](math-and-trig/sumxmy2.md)
+* [SUMX2PY2](math-and-trig/sumxpy2.md)
+* [SQRT](math-and-trig/sqrt.md)
+* [SQRTPI](math-and-trig/sqrtpi.md)
+* [SUBTOTAL](math-and-trig/subtotal.md)
+* [TAN](math-and-trig/tan.md)
+* [TANH](math-and-trig/tanh.md)
+* [TRUNCH](math-and-trig/trunch.md)
+
 
