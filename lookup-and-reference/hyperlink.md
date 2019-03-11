@@ -7,12 +7,14 @@ description: >-
 
 # HYPERLINK
 
+Fungsi Excel HYPERLINK mengembalikan hyperlink dari tujuan yang diberikan dan "friendly name". Anda dapat menggunakan HYPERLINK untuk membuat hyperlink yang dapat diklik dengan rumus.
+
 ![Sumber : https://exceljet.net/excel-functions/excel-hyperlink-function](../.gitbook/assets/hyperlink.png)
 
 ## Syntax
 
 ```text
-=HYPERLINK (link_location, [friendly_name])
+=HYPERLINK(link_location;[friendly_name])
 ```
 
 ## Parameter
@@ -23,6 +25,6 @@ description: >-
 | friendly\_name | \[opsional\] Teks tautan untuk ditampilkan dalam sel. |
 
 {% hint style="warning" %}
-
 * Gunakan fungsi HYPERLINK untuk membuat tautan ke lokasi buku kerja, halaman di internet, atau ke file di server jaringan.
+{% endhint %}
 
