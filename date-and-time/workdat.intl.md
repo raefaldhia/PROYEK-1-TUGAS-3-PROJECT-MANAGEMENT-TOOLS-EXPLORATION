@@ -6,17 +6,11 @@ description: >-
 
 # WORKDAY.INTL
 
-## Syntax
+#### Syntax
 
-{% code-tabs %}
-{% code-tabs-item title="Sintaks Fungsi" %}
 ```text
 WORKDAY.INTL( start_date, days, [weekend], [holidays] )
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |

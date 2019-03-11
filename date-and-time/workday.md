@@ -7,17 +7,11 @@ description: >-
 
 # WORKDAY
 
-## Syntax
+#### Syntax
 
-{% code-tabs %}
-{% code-tabs-item title="Sintaks Fungsi" %}
 ```text
 WORKDAY( start_date, days, [holidays] )
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |

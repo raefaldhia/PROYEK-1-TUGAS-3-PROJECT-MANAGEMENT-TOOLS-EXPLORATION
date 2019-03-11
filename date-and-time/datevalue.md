@@ -2,6 +2,12 @@
 
 Mengubah input teks tanggal menjadi nomor seri.
 
+#### Contoh
+
+| A | Hasil |
+| :--- | :--- |
+| =DATEVALUE\("10/3/2019"\) | 43534 |
+
 #### Syntax
 
 ```text
@@ -17,10 +23,4 @@ Mengubah input teks tanggal menjadi nomor seri.
 
 Argumen `date_text` harus didalam rentang 1 Januari 1900 hingga 31 Desember 9999 atau fungsi ini akan mengembalikan error `#value` 
 {% endhint %}
-
-#### Contoh
-
-| A | Hasil |
-| :--- | :--- |
-| =DATEVALUE\("10/3/2019"\) | 43534 |
 

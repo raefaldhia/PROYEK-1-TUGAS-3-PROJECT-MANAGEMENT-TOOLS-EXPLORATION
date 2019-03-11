@@ -2,6 +2,12 @@
 
 Mendapatkan hari dari nomor seri tanggal.
 
+#### Contoh
+
+| A | Hasil |
+| :--- | :--- |
+| =DAY\(43534\) | 10 |
+
 #### Syntax
 
 ```text
@@ -11,10 +17,4 @@ Mendapatkan hari dari nomor seri tanggal.
 | Parameter | Deskripsi |
 | :--- | :--- |
 | serial\_number | Nomor seri tanggal. |
-
-#### Contoh
-
-| A | Hasil |
-| :--- | :--- |
-| =DAY\(43534\) | 10 |
 

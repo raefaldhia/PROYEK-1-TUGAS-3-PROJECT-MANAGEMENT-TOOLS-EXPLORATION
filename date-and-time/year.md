@@ -4,17 +4,11 @@ description: Mengembalikan bilangan bulat yang mewakili tahun dari tanggal yang 
 
 # YEAR
 
-## Syntax
+#### Syntax
 
-{% code-tabs %}
-{% code-tabs-item title="Sintaks Fungsi" %}
 ```text
 YEAR( serial_number )
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |

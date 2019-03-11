@@ -6,19 +6,13 @@ description: >-
 
 # WEEKNUM
 
-## Syntax
+#### Syntax
 
-{% code-tabs %}
-{% code-tabs-item title="sintaks Fungsi" %}
 ```text
 WEEKNUM( serial_number, [return_type] )
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 
-## Parameter
-
-| Paraemeter | Deskripsi |
+| Parameter | Deskripsi |
 | :--- | :--- |
 
 

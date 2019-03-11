@@ -1,16 +1,12 @@
 # TIMEVALUE
 
-## Syntax
+#### Syntax
 
-{% code-tabs %}
-{% code-tabs-item title="Sintaks Fungsi" %}
 ```text
 TIMEVALUE ( time_text )
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 
-## Parameter
+
 
 | Parameter | Deskripsi |
 | :--- | :--- |

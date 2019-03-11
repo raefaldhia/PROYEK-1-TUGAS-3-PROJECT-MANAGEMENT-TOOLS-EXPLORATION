@@ -6,17 +6,11 @@ description: >-
 
 # YEARFRAC
 
-## Syntax
+#### Syntax
 
-{% code-tabs %}
-{% code-tabs-item title="Sintaks Fungsi" %}
 ```text
 YEARFRAC( start_date, end_date, [basis] )
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-## Parameter
 
 | Parameter | Deskripsi |
 | :--- | :--- |
